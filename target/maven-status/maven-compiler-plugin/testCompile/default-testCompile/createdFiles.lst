@@ -1,0 +1,6 @@
+uk\gov\dwp\uc\pairtest\TicketServiceImplTest.class
+uk\gov\dwp\uc\pairtest\model\AdultTicketTest.class
+uk\gov\dwp\uc\pairtest\model\ChildTicketTest.class
+uk\gov\dwp\uc\pairtest\model\InfantTicketTest.class
+uk\gov\dwp\uc\pairtest\model\TicketRequestDetailTest.class
+uk\gov\dwp\uc\pairtest\model\TicketPriceFactoryImplTest.class
